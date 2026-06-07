@@ -1,0 +1,44 @@
+1º SEMESTRE – GLOBAL SOLUTION:
+ORIENTAÇÕES GERAIS:
+- Todos os entregáveis deverão conter o nome completo e o número de matrícula de todos os integrantes;
+- Todos os integrantes do grupo são responsáveis pela entrega final;
+- Não envie links, poste todos os entregáveis diretamente no Portal, nos formatos exigidos;
+- Após o prazo de entrega, o sistema não aceitará envios posteriores;
+- O(s) arquivo(s) enviado(s) será(ão) o(s) avaliado(s), não sendo permitida substituição após o prazo;
+- Será descontado 1,0 ponto por item ausente e/ou não atendido na avaliação.
+
+TEMA: Neste desafio, os alunos deverão desenvolver um sistema inteligente de monitoramento para controle básico de uma missão espacial experimental. A solução deverá receber, interpretar e exibir dados simulados relacionados às condições operacionais da missão, incluindo temperatura, comunicação, energia e status dos módulos de operação. As equipes deverão aplicar conceitos de programação, algoritmos, pensamento computacional e inteligência artificial introdutória para construção de uma plataforma funcional de análise operacional. O sistema deverá permitir geração automática de alertas, organização das informações monitoradas e visualização simplificada dos dados da missão. Espera-se também a implementação de estruturas lógicas para tomada de decisão básica e respostas automatizadas diante de situações críticas simuladas. O projeto deverá priorizar organização computacional, eficiência do código e clareza na representação das informações operacionais. 
+
+OBJETIVO: O desafio busca aproximar os estudantes do desenvolvimento de sistemas inteligentes aplicados à indústria espacial moderna. 
+
+BRIEFING: A avaliação contemplará a coleta, organização e análise estatística de dados aplicados a problemas da nova economia espacial, utilizando a linguagem de programação Python. Os alunos deverão desenvolver tabelas de distribuição de frequências, gráficos estatísticos e medidas descritivas, interpretando dados e transformando informações em inteligência acionável para soluções tecnológicas sustentáveis e inovadoras relacionadas ao Global Solution.
+
+ORIENTAÇÕES PARA O DESENVOLVIMENTO DA AVALIAÇÃO: Os alunos deverão se organizar individualmente, em dupla ou em trio para realizar a avaliação.
+
+01) Explore as bases de dados indicadas abaixo para fundamentar sua análise:
+IBGE: https://www.ibge.gov.br/ 
+Portal Brasileiro de Dados Abertos: https://dados.gov.br/home 
+Google Data Search: datasetsearch.research.google.com 
+Kaggle: https://www.kaggle.com/   
+GitHub: https://github.com/awesomedata/awesome-public-datasets 
+OBS: Outras bases de dados podem ser utilizadas, a base de dados poderá ser escolhida livremente pelo grupo, desde que seja adequada ao contexto e devidamente justificada, não sendo aceitas bases geradas artificialmente ou com dados fictícios.
+
+02) (2,0 pontos) Utilizando a base de dados do Exercício 01, montar a Tabela de Distribuição de Frequências utilizando a Linguagem de Programação Python para:
+a) 1 variável quantitativa discreta. 
+b) 1 variável quantitativa contínua.
+
+03) (2,0 pontos) Utilizando a base de dados do Exercício 01, gere dois gráficos distintos utilizando a Linguagem de Programação Python, com variáveis diferentes, incluindo todos os elementos gráficos obrigatórios, como título, rótulos dos eixos x e y, cor, e demais itens aplicáveis, conforme o tipo de gráfico escolhido.
+
+04) (2,0 pontos) Utilizando a base de dados do Exercício 01, realize duas análises univariadas utilizando a Linguagem de Programação Python, aplicando a Estatística Descritiva, contendo:
+a) Medidas de Tendência Central: Média, Mediana e Moda.
+b) Medidas de Dispersão: Máximo, Mínimo, Amplitude, Variância, Desvio Padrão e Coeficiente de Variação.
+c) Medidas Separatrizes: Quartis.
+
+05) (2,0 pontos) Elabore um relatório estatístico, contendo as tabelas, gráficos e medidas estatísticas obtidas, com suas respectivas interpretações, com o objetivo de extrair insights relevantes que auxiliem na resolução do problema‑tema desta avaliação.
+Assuma que este relatório será apresentado a uma empresa ou cliente que, além de utilizar as informações para apoiar a tomada de decisão, também avaliará seu desempenho e rigor como profissional da área técnica. 
+
+06) Em seguida, apenas um representante de cada grupo deverá postar no Portal:
+a) O arquivo com a base de dados, obrigatoriamente em formato .csv (Comma-Separated Values) ou .xlsx (Excel);
+b) Os códigos desenvolvidos, obrigatoriamente em formato .py (Python);
+c) O relatório estatístico, obrigatoriamente em formato .pdf (PDF).
+OBS: As entregas devem ser realizadas estritamente conforme as orientações e formatos definidos e trabalhados em aula pelo(a) respectivo(a) professor(a) da disciplina durante o semestre.
